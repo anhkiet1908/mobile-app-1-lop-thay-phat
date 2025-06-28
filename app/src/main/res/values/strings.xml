@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HITCApp</string>
+    <string name="nh_s_u_ri_ng_ch_nh">Ảnh sầu riêng chính</string>
+    <string name="product_image_detail_description">Hình ảnh chi tiết sản phẩm</string>
+    <string name="product_image_description">Hình ảnh sản phẩm</string>
+    <string name="category_icon_description">Biểu tượng danh mục</string>
+    <string name="payment_notes">
+    * Quy khách vui lòng chụp ảnh lại hoá đơn thanh toán và gửi lại So1Design.com trong mục Xác nhận thanh toán.
+    * Nên sử dụng QRCode để tránh xảy ra sai sót trong quá trình thanh toán.
+    * Nếu bạn không sử dụng QRCode, vui lòng đảm bảo nhập đúng nội dung chuyển khoản được ghi bên trên (Trong trường hợp ghi nhầm nội dung chuyển khoản, hãy liên hệ về Fanpage để được hỗ trợ sớm nhất).
+    * Nếu sau 30 phút bạn chưa thấy nhân viên So1Design liên hệ, vui lòng liên hệ với chúng tôi để được hỗ trợ sớm nhất!
+</string>
+</resources>
