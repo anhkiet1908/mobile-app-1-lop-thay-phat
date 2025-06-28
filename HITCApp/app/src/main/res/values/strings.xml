@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HITCApp</string>
+    <string name="nh_s_u_ri_ng_ch_nh">Ảnh sầu riêng chính</string>
+    <string name="product_image_detail_description">Hình ảnh chi tiết sản phẩm</string>
+    <string name="product_image_description">Hình ảnh sản phẩm</string>
+    <string name="category_icon_description">Biểu tượng danh mục</string>
+</resources>
